@@ -63,7 +63,7 @@ python Main.py
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.12**
+- **Python 3.14.0**
 - **Pandas** - Análise e manipulação de dados
 - **CSV** - Formato dos dados do ENEM
 
@@ -74,8 +74,7 @@ analise-enem-estatistica/
 ├── README.md                    # Documentação do projeto
 ├── Main.py                      # Código principal
 ├── requirements.txt             # Dependências
-└── media/
-    └── enem_mat_amostra.csv    # Dados de amostra do ENEM
+└── enem_mat_amostra.csv    # Dados de amostra do ENEM
 ```
 
 ## 💡 Conceitos Aplicados
