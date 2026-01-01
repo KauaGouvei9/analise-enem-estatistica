@@ -87,6 +87,7 @@ analise-enem-estatistica/
 
 ## 👤 Autor
 
+-Kauã Gouveia de Carvalho
 Desenvolvido como projeto de análise estatística aplicada.
 
 ## 📝 Licença
